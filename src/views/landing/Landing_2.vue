@@ -25,7 +25,7 @@ const ctaFeatures = [
   <hero
     :title="'Beautiful analytics to grow smarter'"
     :subTitle="'Powerful, self-serve product and growth analytics to help you convert, engage, and retain more users. Trusted by over 4,000 startups.'"
-    :image="'macbook-pro-16.svg'"
+    :image="'../../../assets/img/macbook-pro-16.svg'"
   />
   <social-proof />
   <alternating-layout

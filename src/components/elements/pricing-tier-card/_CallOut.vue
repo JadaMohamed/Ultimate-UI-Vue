@@ -13,6 +13,10 @@ export default {
       type: Array,
       default: () => [],
     },
+    isPopular: {
+      type: Boolean,
+      default: false,
+    },
   },
 };
 </script>
@@ -25,6 +29,7 @@ export default {
     "
   >
     <img
+      v-if="isPopular"
       style="top: -30px; right: 1px"
       class="mw-146px position-absolute"
       src="@/assets/img/call-out.svg"

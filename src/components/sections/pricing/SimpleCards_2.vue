@@ -20,6 +20,7 @@
             :price="plan.price"
             :plan="plan.plan"
             :features="plan.features"
+            :isPopular="plan.isPopular"
           />
         </div>
       </div>

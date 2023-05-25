@@ -8,7 +8,7 @@ import SimpleCentred2 from "@/components/sections/testimonial/SimpleCentred2.vue
 import CenterMockUp from "@/components/sections/features/CenterMockUp.vue";
 import SimpleIcons2 from "@/components/sections/features/SimpleIcons2.vue";
 import SplitImage1 from "@/components/sections/metrics-sec/SplitImage1.vue";
-import SocialProof from "@/components/sections/social-proof/SocialProof.vue";
+import SocialProof from "@/components/sections/social-proof/Fullwidth.vue";
 import Accordion_1 from "@/components/sections/accordions/Accordion_1.vue";
 import FooterLarge_1 from "@/components/sections/footer/Large_1.vue";
 import Cta from "@/components/sections/cta/SimpleCentred.vue";
@@ -25,18 +25,9 @@ import { FooterLinksColumns6 } from "@/assets/data/footer_links_columns_6.js";
     :badge="['New feature', 'Check out the team dashboard']"
     :title="'Beautiful analytics to grow smarter'"
     :subTitle="'Powerful, self-serve product and growth analytics to help you convert, engage, and retain more users. Trusted by over 4,000 startups.'"
-    :image="'macbook-pro-16.svg'"
+    :image="'../../../assets/img/macbook-pro-16.svg'"
   />
-  <social-proof
-    :container-style-classes="[
-      'container-xxl',
-      'py-lg-96px',
-      'py-64px',
-      'border-bottom',
-      'border-gray-200',
-    ]"
-    :section-style-classes="[]"
-  />
+  <social-proof :theme="'gray-light'" />
   <simple-icons2
     :title="'Analytics that feels like it’s from the future'"
     :subTitle="'Powerful, self-serve product and growth analytics to help you convert, engage, and retain more users. Trusted by over 4,000 startups.'"
