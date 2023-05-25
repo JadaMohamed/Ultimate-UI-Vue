@@ -10,7 +10,7 @@
           {{ badge[1] }}
           <img
             class="ms-1"
-            src="../../assets/icon/primary/arrow-right-16.svg"
+            src="@/assets/icon/primary/arrow-right-16.svg"
             alt=""
           />
         </div>

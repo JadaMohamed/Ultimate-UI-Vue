@@ -27,7 +27,7 @@ export default {
     <img
       style="top: -30px; right: 1px"
       class="mw-146px position-absolute"
-      src="../../assets/img/call-out.svg"
+      src="@/assets/img/call-out.svg"
       alt=""
     />
     <h1 class="pb-16px text-center fw-semibold text-gray-900 mb-0">

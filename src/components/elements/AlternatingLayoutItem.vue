@@ -15,7 +15,11 @@
       ]"
     >
       <div class="mw-560px h-100 col-12 col-lg-6">
-        <img class="mb-24px" src="@/assets/icon/featured/inboxes.svg" alt="" />
+        <img
+          class="mb-24px"
+          src="@/assets/icon/featured/inboxes-default.svg"
+          alt=""
+        />
         <h2 class="mb-16px text-gray-900 fw-semibold">
           {{ title }}
         </h2>

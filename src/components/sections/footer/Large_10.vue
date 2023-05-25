@@ -260,32 +260,28 @@ export default {};
         <ul class="list-unstyled d-flex gap-24px">
           <li>
             <a href=""
-              ><img src="../../assets/logo/socials/twitter.svg" alt=""
+              ><img src="@/assets/logo/socials/twitter.svg" alt=""
             /></a>
           </li>
           <li>
             <a href=""
-              ><img src="../../assets/logo/socials/linkedin.svg" alt=""
+              ><img src="@/assets/logo/socials/linkedin.svg" alt=""
             /></a>
           </li>
           <li>
             <a href=""
-              ><img src="../../assets/logo/socials/facebook.svg" alt=""
+              ><img src="@/assets/logo/socials/facebook.svg" alt=""
             /></a>
           </li>
           <li>
-            <a href=""
-              ><img src="../../assets/logo/socials/github.svg" alt=""
-            /></a>
+            <a href=""><img src="@/assets/logo/socials/github.svg" alt="" /></a>
+          </li>
+          <li>
+            <a href=""><img src="@/assets/logo/socials/two.svg" alt="" /></a>
           </li>
           <li>
             <a href=""
-              ><img src="../../assets/logo/socials/two.svg" alt=""
-            /></a>
-          </li>
-          <li>
-            <a href=""
-              ><img src="../../assets/logo/socials/dribbble.svg" alt=""
+              ><img src="@/assets/logo/socials/dribbble.svg" alt=""
             /></a>
           </li>
         </ul>

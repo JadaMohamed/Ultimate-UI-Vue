@@ -20,7 +20,7 @@
         <button
           class="text-gray-700 py-12px px-20px fw-semibold border border-300 bg-white rounded-2 d-flex gap-2 align-items-center"
         >
-          <img src="../../assets/icon/gray/play-circle.svg" alt="" />View demo
+          <img src="@/assets/icon/gray/play-circle.svg" alt="" />View demo
         </button>
         <button
           class="text-white bg-primary-600 fw-semibold py-12px px-20px rounded-2 border-0"

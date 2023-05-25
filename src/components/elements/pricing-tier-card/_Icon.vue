@@ -1,7 +1,7 @@
 <template lang="">
   <div class="p-32px">
     <div class="mb-20px d-flex justify-content-center">
-      <img class="" src="@/assets/icon/featured/bolt.svg" alt="" />
+      <img class="" src="@/assets/icon/featured/bolt-default.svg" alt="" />
     </div>
     <p class="text-primary-700 fw-semibol text-center mb-2">{{ plan }} plan</p>
     <h1 class="text-center text-gray-900 fw-semibold mb-2">{{ price }}/mth</h1>
