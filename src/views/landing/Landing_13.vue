@@ -2,7 +2,7 @@
 import "bootstrap/dist/js/bootstrap.bundle.min.js";
 import Navbar from "@/components/sections/navbar/Navbar.vue";
 import Hero from "@/components/sections/hero/GeometricShapes_4.vue";
-import SocialProof from "@/components/sections/social-proof/FullWidth.vue";
+import SocialProof from "@/components/sections/social-proof/Fullwidth.vue";
 import Content from "@/components/sections/content/SplitImage_3.vue";
 import Testimonial from "@/components/sections/testimonial/AbstractImage.vue";
 import Metrics from "@/components/sections/metrics-sec/SplitImage1.vue";

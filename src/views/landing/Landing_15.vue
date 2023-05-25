@@ -1,7 +1,7 @@
 <script setup>
 import Navbar from "@/components/sections/navbar/Navbar.vue";
 import Hero from "@/components/sections/hero/SimpleText.vue";
-import SocialProof from "@/components/sections/social-proof/FUllwidth.vue";
+import SocialProof from "@/components/sections/social-proof/Fullwidth.vue";
 import Features_1 from "@/components/sections/features/TabsMockUp_8.vue";
 import Testimonial from "@/components/sections/testimonial/SimpleCentred2.vue";
 import Features_2 from "@/components/sections/features/SimpleIcons2.vue";

@@ -2,7 +2,7 @@
 import "bootstrap/dist/js/bootstrap.bundle.min.js";
 import Navbar from "@/components/sections/navbar/Navbar.vue";
 import Hero from "@/components/sections/hero/CardMockUp_2.vue";
-import SocialProof from "@/components/sections/social-proof/FullWidth.vue";
+import SocialProof from "@/components/sections/social-proof/Fullwidth.vue";
 import Features_1 from "@/components/sections/features/IconsAndMockUp_7.vue";
 import Cta_1 from "@/components/sections/cta/AbstractImages.vue";
 import Features_2 from "@/components/sections/features/TabsMockUp_2.vue";

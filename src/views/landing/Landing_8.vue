@@ -2,7 +2,7 @@
 import "bootstrap/dist/js/bootstrap.bundle.min.js";
 import Navbar from "@/components/sections/navbar/Navbar.vue";
 import Hero from "@/components/sections/hero/CardMockUp_9.vue";
-import SocialProof from "@/components/sections/social-proof/FullWidth.vue";
+import SocialProof from "@/components/sections/social-proof/Fullwidth.vue";
 import Features_2 from "@/components/sections/features/LargeScreenMockUp_3.vue";
 import SimpleCentred2 from "@/components/sections/testimonial/SimpleCentred2.vue";
 import Cta_2 from "@/components/sections/cta/CardHorizontal.vue";

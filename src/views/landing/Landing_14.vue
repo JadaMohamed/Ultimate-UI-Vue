@@ -1,7 +1,7 @@
 <script setup>
 import Navbar from "@/components/sections/navbar/Navbar.vue";
 import Hero from "@/components/sections/hero/SimpleText.vue";
-import SocialProof from "@/components/sections/social-proof/FUllwidth.vue";
+import SocialProof from "@/components/sections/social-proof/Fullwidth.vue";
 import Contact from "@/components/sections/contact/IconsAndImage.vue";
 import Testimonial from "@/components/sections/testimonial/SimpleLeftAligned.vue";
 import Metrics from "@/components/sections/metrics-sec/MinimalCentredText.vue";
