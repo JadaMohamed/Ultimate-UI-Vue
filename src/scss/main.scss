@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
+$font-family-base: "Inter";
+//import the functions & variables
+@import "../../node_modules/bootstrap/scss/_functions";
+@import "../../node_modules/bootstrap/scss/_variables";
+@import "../../node_modules/bootstrap/scss/mixins";
+//Breakpoints
+@import "./breakpoints";
+//Colors
+@import "./colors";
+//Spacing
+@import "./spacing";
+//Import bootstrap
+@import "../../node_modules/bootstrap/scss/bootstrap";
+//aditional styles
+@import "./styles";

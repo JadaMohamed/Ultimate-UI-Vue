@@ -1,0 +1,18 @@
+$custom-display-sizes: (
+  6: 1rem,
+  7: 4.5rem,
+  1: 1rem,
+);
+
+$display-font-sizes: map-merge($display-font-sizes, $custom-display-sizes);
+
+.fs-lg {
+  font-size: 18px;
+}
+.fs-md {
+  font-size: 16px;
+}
+
+.fs-sm {
+  font-size: 14px;
+}

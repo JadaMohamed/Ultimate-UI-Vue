@@ -1,0 +1,33 @@
+$custom-spacers: (
+  6: $spacer * 3.5,
+  7: $spacer * 4,
+  8: $spacer * 5,
+  9: $spacer * 6,
+  10: $spacer * 7,
+  1px: $spacer * 0.06,
+  2px: $spacer * 0.125,
+  12px: $spacer * 0.75,
+  14px: $spacer * 0.875,
+  10px: $spacer * 0.625,
+  16px: $spacer * 1,
+  18px: $spacer * 1.125,
+  20px: $spacer * 1.25,
+  24px: $spacer * 1.5,
+  32px: $spacer * 2,
+  28px: $spacer * 1.75,
+  40px: $spacer * 2.5,
+  48px: $spacer * 3,
+  64px: $spacer * 4,
+  80px: $spacer * 5,
+  88px: $spacer * 5.5,
+  96px: $spacer * 6,
+  142px: $spacer * 8.875,
+  202px: $spacer * 12.625,
+  274px: $spacer * 17.125,
+);
+$spacers: map-merge($spacers, $custom-spacers);
+:root {
+  @each $spacer, $value in $spacers {
+    --theme-spacer-#{$spacer}: #{$value};
+  }
+}
