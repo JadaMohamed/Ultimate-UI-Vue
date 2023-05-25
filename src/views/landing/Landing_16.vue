@@ -6,7 +6,7 @@ import SocialProof from "@/components/sections/social-proof/Fullwidth.vue";
 import Features_1 from "@/components/sections/features/LargeScreenMockUp_3.vue";
 import Features_2 from "@/components/sections/features/TabsMockUp_8.vue";
 import Testimonial from "@/components/sections/testimonial/CaseStudyCards.vue";
-import Cta_1 from "@/components/sections/cta/ScreenMockUp_3.vue";
+import Cta_1 from "@/components/sections/cta/ScreenMockup_3.vue";
 import Cta_2 from "@/components/sections/cta/SimpleLogos_2.vue";
 import Footer_ from "@/components/sections/footer/Large_9.vue";
 import BlogSlider from "@/components/sections/blog/CarouselLayout_2.vue";
